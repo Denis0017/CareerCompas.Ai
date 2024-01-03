@@ -1,6 +1,3 @@
-
-Certainly! Here's a sample README file content for your project:
-
 Student Career Guidance System
 Overview
 This project is a web application designed to offer career guidance to students using Artificial Intelligence algorithms. It incorporates React JS and Bootstrap for the frontend and utilizes Flask as the app server. The system implements machine learning algorithms in the backend to suggest suitable career paths for students.
