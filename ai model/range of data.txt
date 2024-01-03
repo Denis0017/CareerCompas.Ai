@@ -1,0 +1,37 @@
+0-100	
+0-100	
+0-100	
+0-100	
+0-100	
+0-100	
+0-100	
+0-100	
+0-100	
+0-100	
+0-100	
+0-100	
+0-100	
+0-100	
+yes-no	
+yes-no	
+yes-no	
+shell programming-app development-distro making-full stack-hadoop-information security-machine learning-python-r programming	
+cloud computing-data science-database security-game development-hacking-system designing-testing-web technologies	
+yes-no	
+yes-no	
+poor-medium-excellent	
+poor-medium-excellent	
+cloud computing-Computer Architecture-data engineering-hacking-IOT-Management-networks-parallel computing-programming-Software Engineering	Business process analyst-cloud computing-developer-security-system developer-testing	
+job-higherstudies	
+BPA-Cloud Services-Finance-Product based-product development-SAaS services-Sales and Marketing-Service Based-Testing and Maintainance Services-Web Services	
+yes-no	
+yes-no	
+Action and Adventure-Anthology-Art-Autobiographies-Biographies-Childrens-Comics-Cookbooks-Diaries-Dictionaries-Drama-Encyclopedias-Fantasy-Guide-Health-History-Horror	
+salary-work	yes-no	
+stubborn-gentle	
+Management-Technical	
+salary-work	
+smart worker-hard worker	
+yes-no	
+yes-no	
+Applications Developer-Business Intelligence Analyst-Business Systems Analyst-CRM Business Analyst-CRM Technical Developer-Data Architect-Database Administrator-Database Developer-Database Manager-Design & UX-E Commerce Analyst-Information Security Analyst-Information Technology Auditor-Information Technology Manager-Mobile Applications Developer-Network Engineer-Network Security Administrator-Network Security Engineer-Portal Administrator-Programmer Analyst-Project Manager-Quality Assurance Associate-Software Developer-Software Engineer-Software Quality Assurance (QA) / Testing-Software Systems Engineer-Solutions Architect-Systems Analyst-Systems Security Administrator-Technical Engineer-Technical Services/Help Desk/Tech Support-Technical Support-UX Designer-Web Developer
